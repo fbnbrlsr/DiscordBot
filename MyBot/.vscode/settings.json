@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Sonstiges\\Coding\\DiscordBot\\JDA-4.3.0_323-withDependencies.jar"
+    ]
+}
